@@ -206,7 +206,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   /* 上下左右中央テクニック https://ics.media/entry/17522/ */
   display: flex;
   align-items: center;
-  justify-content: ;
+  justify-content:center ;
 }
 
 .link_menu{
@@ -308,7 +308,7 @@ reportページ
 
 .report_eye_catch {
   height: 300px;
-  background-image: url(../images/z.JPG);
+  background-image: url(../images/z.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
